@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gitmrwick
 - 👀 I’m interested in Python, Debian GNU/Linux and internetworking computers
-- 🌱 I’m currently learning React, Django, Docker and SBC's
+- 🌱 I’m currently learning React, Django, Docker, Ansible and SBC's
 - 💞️ I’m looking to collaborate on open source Django, Flask, Bottle projects
 - 📫 How to reach me: telepathy, think very very hard
 
